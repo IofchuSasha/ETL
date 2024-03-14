@@ -8,8 +8,7 @@
 <img  src="https://github.com/IofchuSasha/ETL/blob/main/1pr/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-14%20124816.png"  width="300" alt="Calculate-BMI-and-risk-category"/>
 </p>
 <h3 align="center">Рис.1</h3>
-Решение:
-https://colab.research.google.com/drive/1n79RN3Cz1NYjmnBEYxZxezAffC4zzJG6?usp=sharing
+Решение: https://github.com/IofchuSasha/ETL/blob/main/1pr/%D0%9A%D0%A3%D0%A0%D0%A1_%C2%AB%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC_%D0%BF%D0%BE_ETL%C2%BB_2024.md
 
 ## 2.  Парсинг веб-страниц с помощью Beautiful Soup и Pandas открытых источников данных, согласно варианту 9.
 
