@@ -24,8 +24,8 @@ https://github.com/IofchuSasha/ETL/blob/main/1pr/IA.Pr1.1..ipynb
 
 Архитектура решения на Рис.3.
 <p align="center">
-<img  src="https://github.com/Drobilk/-ETL--/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-17%20150610.png"  width="350" alt="Calculate-BMI-and-risk-category"/>
+<img  src="https://github.com/IofchuSasha/ETL/blob/main/1pr/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-03-14%20163325.png"  width="350" alt="Calculate-BMI-and-risk-category"/>
 </p>
 <h3 align="center">Рис.3</h3>
 Решение:
-https://colab.research.google.com/drive/1KkCC5kSFLUaBQ-slTuPqiSc6OCtBwIA6
+https://github.com/IofchuSasha/ETL/blob/main/1pr/IA.Pr1.2..ipynb
